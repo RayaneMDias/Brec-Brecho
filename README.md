@@ -13,7 +13,8 @@ além da conexão com Banco de Dados.
 **Git/GitHub** (Versionamento de código)
 
 ## 📚 O que aprendemos
-*Como conectar uma aplicação Java com banco de dados MySQL.
+*Como conectar uma aplicação Java com banco de dados MySQL. 
+*Gerenciamento de dados em ambiente local e nuvem.
 *Estruturação de projeto em camadas (MVC).
 *Versionamento de código utilizando Git e GitHub via terminal.
 ---
