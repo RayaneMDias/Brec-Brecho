@@ -1,7 +1,4 @@
 package br.com.brecbrecho.util;
-
-
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -11,7 +8,7 @@ public class ConexaoDB {
 	
 	public static Connection getConexao() {
 		String user = "root";
-		String password = "root";
+		String password = "1515";
 		String url = "jdbc:mysql://localhost:3306/brec_brecho_db?useSSL=false&serverTimezone=UTC";
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
@@ -23,7 +20,6 @@ public class ConexaoDB {
 
 }
    
-
 
 
 
